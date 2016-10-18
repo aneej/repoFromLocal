@@ -19,5 +19,8 @@ public  class Person {
 	public  void setAge(int i) {
 		age = i  ;
 	}
+	
+	// add  addtribute from remote repo
+	String remoteMessage
 
 }
