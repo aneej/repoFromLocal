@@ -16,4 +16,8 @@ public  class Person {
 	}
 	
 	//  Review Comments : Please  add  setter method  for attribute age
+	public  void setAge(int i) {
+		age = i  ;
+	}
+
 }
