@@ -21,6 +21,6 @@ public  class Person {
 	}
 	
 	// add  addtribute from remote repo
-	String remoteMessage
+	String remoteMessage ;
 
 }
