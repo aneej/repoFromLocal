@@ -6,6 +6,6 @@ public  class Person {
 		return name;
 	}
 	public  void putName(String s)  {
-		name = new STring(s) ;
+		name = new String(s) ;
 	}
 }
