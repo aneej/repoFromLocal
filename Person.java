@@ -8,4 +8,10 @@ public  class Person {
 	public  void putName(String s)  {
 		name = new String(s) ;
 	}
+
+	//  attribute age
+	int age  ;
+	public  int getAge() {
+		return  age ;
+	}
 }
